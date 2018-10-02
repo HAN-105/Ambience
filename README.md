@@ -1,4 +1,6 @@
 # Ambience
+Master Branch = 1.7.10 Version
+
 Experience with tons of new music events in minecraft. In order to play music it uses the [JLayer](http://www.javazoom.net/javalayer/javalayer.html) library.
 
 ![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)  
